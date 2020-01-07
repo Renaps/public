@@ -8,4 +8,4 @@ read -sp 'Enter your Personal access (GitHub) token : ' GIT_TOKEN
 git clone https://${GIT_TOKEN}@github.com/Renaps/ram.git
 git clone https://${GIT_TOKEN}@github.com/Renaps/ram_core.git
 
-#./ram/setup/test.sh
+./ram/setup/install.sh
